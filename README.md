@@ -54,7 +54,7 @@ Some merging of precincts in the tabular election data and precinct shapefile we
 * `CD`: Congressional district
 * `SEND`: State Senate district
 
-Note: State house districts are not included because Nebraska has a unicameral legislature.
+Notes: State house districts are not included because Nebraska has a unicameral legislature. Also, the Nebraska governor and lieutenant governor are elected together, so the gubernatorial results also represent lieutenant governor results.
 
 ## Projection
 This shapefile uses a Lambert Conformal Conic/State Plane projection centered on Nebraska (ESPG:6516).
